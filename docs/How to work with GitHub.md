@@ -41,17 +41,17 @@ To work with GitHub you need to create an account on it.
 
 # 2. How to create an account on GitHub?
 
-* Go to https://github.com/ and click *Sign up for GitHub*.  
+* Go to [github.com](https://github.com/) and click *Sign up for GitHub*.  
 
   ![GitHub sign up](../assets/images/GitHub_01.png)
 
 * Enter your *Username*, *Email address* and *Password*. Verify that "you are not a robot" and click **Create account** button. You can change the user name and password later on.
 
-  ![GitHub sign up](/assets/images/GitHub_02.png)
+  ![GitHub sign up](../assets/images/GitHub_02.png)
 
 * In the next step mark your preferences and the correct topics what you're interested in and click **Complete setup**. You will be asked to verify your email address. 
 
-  ![GitHub sign up](/assets/images/GitHub_03.png)
+  ![GitHub sign up](../assets/images/GitHub_03.png)
 
 
 
@@ -84,27 +84,27 @@ Locally in the Github Desktop Client application and directly on the GitHub serv
 
 * File tab> New repository.
 
-  ![GHDC new repository](/assets/images/GitHub_04.png)
+  ![GHDC new repository](../assets/images/GitHub_04.png)
 
 * The following dialog should appear:
 
-  ![GHDC new repository](/assets/images/GitHub_05.png)
+  ![GHDC new repository](../assets/images/GitHub_05.png)
 
   Enter the repository name, description and choose the path in your PC. The path should be as short as possible. Mark the field *Initialize this repository with a README* (a README file will be created) and click **Create repository**. The *Git ignore* and *License* fields should be marked as "None".
 
 * The new repository has been created in your PC. You need to publish your repository on the GitHub server. Click the **Publish repository** button.
 
-  ![GHDC new repository](/assets/images/GitHub_06.png)
+  ![GHDC new repository](../assets/images/GitHub_06.png)
 
 * The following dialog should appear:
 
-  ![GHDC new repository](/assets/images/GitHub_07.png)
+  ![GHDC new repository](../assets/images/GitHub_07.png)
 
   Choose the GitHub.com tab. Mark the field *Keep this code private* if the repository should be available only for you. You can change this option later to give the access to your repository for other GitHub users. Click the **Publish repository** button.
 
 * Check the GitHub server. The new repository should appear in your GitHub account. Refresh the page if is not visible.
 
-  ![GHDC new repository](/assets/images/GitHub_08.png)
+  ![GHDC new repository](../assets/images/GitHub_08.png)
 
 ### 4.1.2 Creating a new repository on the GitHub server.
 
@@ -112,45 +112,45 @@ You can create a new repository directly on the GitHub server as well. To create
 
 * Click the **New** button on the main screen in your GitHub account.
 
-  ![GitHub server](/assets/images/GitHub_09.png)
+  ![GitHub server](../assets/images/GitHub_09.png)
 
 * Enter the repository name. Decide that the repository should be *Private* or *Public*, mark the *Add a README file* field and click the **Create repository** button.
 
-  ![GitHub server](/assets/images/GitHub_10.png)
+  ![GitHub server](../assets/images/GitHub_10.png)
 
 * The new repository has been created. The following screen should appear:
 
-  ![GitHub server](/assets/images/GitHub_11.png)
+  ![GitHub server](../assets/images/GitHub_11.png)
 
 
   At this moment your repository exist only on the GitHub server. You need to clone it into your PC. 
 
 * Click the **Code** button (1) and choose the *Open with GitHub Desktop* option (2).
 
-  ![GitHub server](/assets/images/GitHub_14_2.png)
+  ![GitHub server](../assets/images/GitHub_14_2.png)
 
 * The following dialog should appear:
 
-  ![GitHub server](/assets/images/GitHub_15.png)
+  ![GitHub server](../assets/images/GitHub_15.png)
 
   Click the URL tab. Choose the location for your created repository and click the **Clone** button.
 
 * Your new repository should appear in *Current repository* tab in the GitHub Desktop and new folder should be created in the indicated location.
 
-  ![GitHub server](/assets/images/GitHub_16_1.png)
+  ![GitHub server](../assets/images/GitHub_16_1.png)
 
-  ![GitHub server](/assets/images/GitHub_17_1.png)
+  ![GitHub server](../assets/images/GitHub_17_1.png)
 
 
   You can also create a new repositories from other place in your account on the GitHub server.
 
 * In your profile main screen click the *Repositories* (1) and the **New** button (2) later on.
 
-  ![GitHub server](/assets/images/GitHub_18_1.png)
+  ![GitHub server](../assets/images/GitHub_18_1.png)
 
 * You can also create a new repository by click the **Start a project** button on main GitHub screen (you must be logged in).
 
-  ![GitHub server](/assets/images/GitHub_19.png)
+  ![GitHub server](../assets/images/GitHub_19.png)
 
 
   In either case, the procedure for creating a new repository is the same.
