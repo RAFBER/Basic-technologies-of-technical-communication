@@ -1,7 +1,7 @@
 ---
 layout: default
-title:GitHub
-nav_order: 3
+title: GitHub
+nav_order: 4
 ---
 
 # How to work with GitHub
