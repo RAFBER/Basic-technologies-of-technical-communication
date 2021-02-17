@@ -6,12 +6,11 @@ description: "Basic technologies of technical communication"
 permalink: /
 ---
 
-Basic technologies of technical communication
-=============================================
+# Basic technologies of technical communication
+{: .no_toc}
 
 
 # Table of contents
-
 {: .no_toc}
 
 1. TOC
@@ -37,6 +36,7 @@ The operating instructions are intended for anyone who:
 * Would like to publish its first web pages
 
 ## Enjoy your work!
+{: .no_toc}
 
 Add a link!!!
 
