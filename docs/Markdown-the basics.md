@@ -8,7 +8,6 @@ nav_order: 2
 {: .no_toc}
 
 ![Markdown logo](/assets/images/Markdown_logo.jpg)
-![GitHub logo](../assets/images/GitHub_logo.jpg)
 
 ## Table of contents
 {: .no_toc}
@@ -49,27 +48,28 @@ Markdown is a simple text format. This is the so-called “quick documentation�
 ### 2.1.2 Paragraph
 
 <!--Example of paragraph of text-->
-This is a paragraph of text.
+    This is a paragraph of text.
 
-This is another paragraph of text.
+    This is another paragraph of text.
 
-This is a line.  
-This is another line.  
-This is not a new line.  
+    This is a line.  
+    This is another line.  
+    This is not a new line.  
 
 <!--Example of another paragraph of text-->
-Paragraph of text that spans over he line. See how this displays when I write and write and write. What happens when I press enter? Nothing!  
-If I want a new line, I put two spaces and them Enter. This is still the same paragraph.
+    Paragraph of text that spans over he line. See how this displays when I write and write and write. What happens when I press enter? Nothing!  
+    If I want a new line, I put two spaces and them Enter. This is still the same paragraph.
 
 ### 2.1.3 Bold, Italic, Quote
 
 <!--Example for bold text-->
-* See how to insert **bold** text!
+* See how to insert **bold** text!  
+*     See how to insert **bold** text!
 
 <!--Example for Italic-->
 * And that's *How italic is defined*.
 
-<!--Example for Quote-->
+* Example for Quote
 * A wise man once said:
   >Don't listen to me!  
   >Why would you?
@@ -113,7 +113,7 @@ To create the *Table of contents* proceed as follows:
 * Enter the "create" in command field and choose the option: *Markdown All in One: Create Table of Contents*  
   **Note:** The Markdown All in One extension must be previously installed. 
 
-   ![Table of contents](./ToC_1.jpg)
+   ![Table of contents](/assets/images/ToC_1.jpg)
 
 For the extension installation procedure please refer to the document *Visual Studio Code - useful options*  
 [Visual Studio Code – useful options](Visual_Studio_Code–useful_options.md)
@@ -123,12 +123,20 @@ For the extension installation procedure please refer to the document *Visual St
 * bullet
 * another bullet
 * more bullets
+<!--Example for Bullet list-->
+     * bullet
+     * another bullet
+     * more bullets
 
 <!--Example for Numbered list-->
 ### 2.2.4 Numbered list
 1. First point
 2. Second point
 3. Third point
+<!--Example for Numbered list-->
+    1. First point
+    2. Second point
+    3. Third point
 
 
 <!--Example text with equotation-->
@@ -137,7 +145,9 @@ If x=2 then it's a relatively small x.
 
 <!--Example for inline code-->
 ### 2.2.6 Inline code
-If you specify `x=2;` then your program substitues 2 for x.
+If you specify `x=2;` then your program will substitute 2 for x.
+<!--Example for inline code-->
+    If you specify `x=2;` then your program will substitute 2 for x.
 
 <!--A block of code-->
 ### 2.2.7 Block of code
@@ -158,25 +168,47 @@ z=x+y;
 | row content | another row content |
 | row content | another row content |
 
+<!--Example for Table-->
+    | header      | another header      |
+    | ----------- | ------------------- |
+    | row content | another row content |
+    | row content | another row content |
+    | row content | another row content |
+
 Paragraph after table
 
 ## 2.3 Images  
 
 <!--Example for Images-->
-![Text to display if no image](./images/Photo.jpg)
+![Text to display if no image](/assets/images/Photo.jpg)
+<!--Example for Images-->
+    ![Text to display if no image](/assets/images/Photo.jpg)
 
 ## 2.4 Links to other source  
 
 <!--Example for links-->
 [Weather](http://meteo.pl)
 
+    [Weather](http://meteo.pl)
+
 [Validator](https://validator.w3.org/nu/#textare)
 
-<!--Example for linking to another file-->
+    [Validator](https://validator.w3.org/nu/#textare)
+
+Example for linking to another file.  
+**Note:** Both files must be in the same folder.  
 [Reference](Test.md)
+
+    [Reference](Test.md)
 
 ## 2.5 Variables
 
+## Variables
+{: .no_toc}
+1. first
+2. second
+3. third
+<!--Example for links-->
     # Variables
     1. first
     2. second
