@@ -9,5 +9,5 @@ Contact data
 ============
 
 Rafal Bertolassi  
-mobile phone: **+48 501 145 602**  
+
 email address: rafal.bertolassi@gmail.com
