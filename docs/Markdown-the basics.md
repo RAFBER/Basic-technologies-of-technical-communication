@@ -113,7 +113,7 @@ To create the *Table of contents* proceed as follows:
 * Enter the "create" in command field and choose the option: *Markdown All in One: Create Table of Contents*  
   **Note:** The Markdown All in One extension must be previously installed. 
 
-   ![Table of contents](/assets/images/ToC_1.jpg)
+   ![Table of contents](../assets/images/ToC_1.png)
 
 For the extension installation procedure please refer to the document *Visual Studio Code - useful options*  
 [Visual Studio Code – useful options](Visual_Studio_Code–useful_options.md)
@@ -123,6 +123,7 @@ For the extension installation procedure please refer to the document *Visual St
 * bullet
 * another bullet
 * more bullets
+
 <!--Example for Bullet list-->
      * bullet
      * another bullet
@@ -133,26 +134,28 @@ For the extension installation procedure please refer to the document *Visual St
 1. First point
 2. Second point
 3. Third point
+
 <!--Example for Numbered list-->
     1. First point
     2. Second point
     3. Third point
 
 
-<!--Example text with equotation-->
-### 2.2.5 Equotation
+<!--Example text with equation-->
+### 2.2.5 Equation
 If x=2 then it's a relatively small x.
 
-<!--Example for inline code-->
-### 2.2.6 Inline code
+<!--Example for in line code-->
+### 2.2.6 In line code
 If you specify `x=2;` then your program will substitute 2 for x.
-<!--Example for inline code-->
+
+<!--Example for in line code-->
     If you specify `x=2;` then your program will substitute 2 for x.
 
 <!--A block of code-->
 ### 2.2.7 Block of code
 
-Here comes a codeblock:
+Here comes a code block:
 ```
 x=2;
 y=7;
@@ -180,9 +183,10 @@ Paragraph after table
 ## 2.3 Images  
 
 <!--Example for Images-->
-![Text to display if no image](/assets/images/Photo.jpg)
+![Text to display if no image](/assets/images/Photo.png)
+
 <!--Example for Images-->
-    ![Text to display if no image](/assets/images/Photo.jpg)
+    ![Text to display if no image](/assets/images/Photo.png)
 
 ## 2.4 Links to other source  
 
@@ -191,9 +195,9 @@ Paragraph after table
 
     [Weather](http://meteo.pl)
 
-[Validator](https://validator.w3.org/nu/#textare)
+[Validation](https://validator.w3.org/nu/#textare)
 
-    [Validator](https://validator.w3.org/nu/#textare)
+    [Validation](https://validator.w3.org/nu/#textare)
 
 Example for linking to another file.  
 **Note:** Both files must be in the same folder.  
@@ -208,6 +212,7 @@ Example for linking to another file.
 1. first
 2. second
 3. third
+
 <!--Example for links-->
     # Variables
     1. first
@@ -216,7 +221,7 @@ Example for linking to another file.
 
 ## 2.6 Helpful links
 
-[Markdown cheatsheet](./PDF/markdown-cheatsheet.pdf)
+[Markdown cheat-sheet](./PDF/markdown-cheatsheet.pdf)
 
 [Markdown specifications](https://daringfireball.net/projects/markdown/)
 
@@ -228,7 +233,7 @@ Example for linking to another file.
 
 [Visual Studio Code – useful options](Visual_Studio_Code–useful_options.md)
 
-To instal Visual Studio Code go to:  
+To install Visual Studio Code go to:  
 
 [VS Code installation instructions](Installation_instruction_for_Visual_Studio_Code_software.md)
 
