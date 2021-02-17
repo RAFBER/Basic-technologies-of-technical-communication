@@ -15,23 +15,23 @@ To install GitHub Desktop Client go to page https://desktop.github.com/ and proc
 
 1. Click the **Download for Windows** button and download the setup file.  
    
-   ![GHDC download](/assets/images//GHDC_01_1.jpg)
+   ![GHDC download](/assets/images/GHDC_01_1.png)
 
 2. Double-click the **GitHub Desktop** setup file.  
    
-   ![GHDC.exe](/assets/images//GHDC_01.jpg)
+   ![GHDC.exe](/assets/images/GHDC_01.png)
    
 3. The following dialog should appear. Click the **Launch** button.  
 
-   ![Launch button](/assets/images//GHDC_02.jpg)
+   ![Launch button](/assets/images/GHDC_02.png)
 
    A window should appear informing you about the installation process.
 
-   ![Installation process](/assets/images//GHDC_03.jpg)
+   ![Installation process](/assets/images/GHDC_03.png)
 
 4. GitHub Desktop will launch after installation is complete.
 
-   ![Main screen](/assets/images//GHDC_04.jpg)
+   ![Main screen](/assets/images/GHDC_04.png)
 
 
 5. Helpful links.
