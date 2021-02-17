@@ -3,7 +3,6 @@ layout: default
 title: Useful options
 parent: Visual Studio Code
 nav_order: 2
-description: "Basic technologies of technical communication"
 ---
 
 # Visual Studio Code – useful options

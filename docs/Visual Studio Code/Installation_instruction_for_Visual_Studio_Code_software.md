@@ -3,7 +3,6 @@ layout: default
 title: Installation instructions
 parent: Visual Studio Code
 nav_order: 1
-description: "Installation instructions for Visual Studio Code editor"
 ---
 
 
