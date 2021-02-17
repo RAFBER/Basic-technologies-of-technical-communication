@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Imprint 
-nav_order: 4
+nav_order: 6
 description:  "User guide data"
 ---
 
