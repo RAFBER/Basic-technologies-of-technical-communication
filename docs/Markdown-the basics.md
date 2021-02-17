@@ -7,7 +7,7 @@ nav_order: 2
 # Markdown-the basics
 {: .no_toc}
 
-![Markdown logo](/assets/images/Markdown_logo.jpg)
+![Markdown logo](/assets/images/Markdown_logo.png)
 
 ## Table of contents
 {: .no_toc}
