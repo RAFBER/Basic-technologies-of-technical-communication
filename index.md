@@ -17,7 +17,7 @@ permalink: /
 {:toc}
 
 
-## About these instructions
+## About this user guide
 This *User guide* contain basic information about the Markdown, installation of necessary software and work with the GitHub server.  
 This *User guide* will help you to create first web page using simple text format Markdown and GitHub hosting server.  
 You will also learn how to install the necessary software.  
