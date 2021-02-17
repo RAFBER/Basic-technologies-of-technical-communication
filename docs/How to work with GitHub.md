@@ -8,7 +8,7 @@ nav_order: 4
 {: .no_toc}
 
 
-![GitHub logo](/assets/images/GitHub_logo.png)
+![GitHub logo](../assets/images/GitHub_logo.png)
 
 - [How to work with GitHub](#how-to-work-with-github)
 - [1. What is GitHub?](#1-what-is-github)
@@ -43,7 +43,7 @@ To work with GitHub you need to create an account on it.
 
 * Go to https://github.com/ and click *Sign up for GitHub*.  
 
-  ![GitHub sign up](/assets/images/GitHub_01.png)
+  ![GitHub sign up](../assets/images/GitHub_01.png)
 
 * Enter your *Username*, *Email address* and *Password*. Verify that "you are not a robot" and click **Create account** button. You can change the user name and password later on.
 
