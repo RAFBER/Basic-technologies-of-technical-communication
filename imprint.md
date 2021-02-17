@@ -3,6 +3,7 @@ layout: default
 title: Imprint 
 nav_order: 6
 description:  "User guide data"
+back_to_top: false
 ---
 
 Imprint

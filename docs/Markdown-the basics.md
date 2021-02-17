@@ -183,7 +183,7 @@ Paragraph after table
 ## 2.3 Images  
 
 <!--Example for Images-->
-![Text to display if no image](/assets/images/Photo.png)
+![Text to display if no image](../assets/images/Photo.png)
 
 <!--Example for Images-->
     ![Text to display if no image](/assets/images/Photo.png)
