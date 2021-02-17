@@ -2,7 +2,7 @@
 layout: default
 title: Introduction
 nav_order: 1
-description: "Driver's Handbook for the Morris Mini Minor"
+description: "Basic technologies of technical communication"
 permalink: /
 ---
 
@@ -13,36 +13,39 @@ Basic technologies of technical communication
 ![Markdown logo](/assets/images/Markdown_logo.jpg)
 ![GitHub logo](/assets/images/GitHub_logo.jpg)
 
-# Introduction
+- [Basic technologies of technical communication](#basic-technologies-of-technical-communication)
+- [Table of contents](#table-of-contents)
+  - [1. About these instructions](#1-about-these-instructions)
+  - [2.  Target groups](#2--target-groups)
+  - [Enjoy your work!](#enjoy-your-work)
 
-This manual will help you understand the operation and maintenance of your vehicle so that you can enjoy many hours of driving pleasure.
+# Table of contents
 
-Welcome to the growing family of Mini owners. This vehicle has been delivered to you with confidence.
+{: .no_toc}
 
-This manual provides all the information necessary to maintain the vehicle in first-class condition and to ensure trouble-free service.
-Please read this manual before operating your vehicle.
+1. TOC
+{:toc}
 
-![Saloon model](/assets/images/Saloon.png)  
-*Saloon model*
 
-![Traveller model](/assets/images/Traveller.png)  
-*Traveller model*
+## 1. About these instructions
+This *User guide* contain basic information about the Markdown, installation of necessary software and work with the GitHub server.  
+This *User guide* will help you to create first web page using simple text format Markdown and GitHub hosting server.  
+You will also learn how to install the necessary software.  
 
-## Reading this manual
+* Read these user guide very carefully and pay attention to the information contained within, before start your work on first web page, software installation and creation an account on the GitHub server
+* Ensure that the operating instructions are understood by you.
+* Contact me if you have any questions. I shall be pleased to offer additional help.
+* Please let me know if you have some notes about this *User guide*
+* I would be grateful for any information about mistakes contained in this *User guide*
 
-This manual includes information for the Saloon and Traveller models.
+## 2.  Target groups
+The operating instructions are intended for anyone who:
+* Would like to know the basics of Markdown 
+* Would like to learn to work with a simple text editor like Visual Studio Code
+* Would like to create an account on the GitHub server 
+* Would like to publish its first web pages
 
-All information, specifications and illustrations in this manual are correct at the time of printing.
-
-**Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
-
-Detailed and technical information is contained in the Workshop Manual which is available from your authorized
-Mini dealer.
-
-1. Tip 1
-2. Tip 2
-3. Tip 3 
-
+## Enjoy your work!
 
 Add a link!!!
 
