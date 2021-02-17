@@ -9,6 +9,7 @@ permalink: /
 Basic technologies of technical communication
 =============================================
 
+
 ![Markdown logo](/assets/images/Markdown_logo.jpg)
 ![GitHub logo](/assets/images/GitHub_logo.jpg)
 
