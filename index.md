@@ -10,15 +10,6 @@ Basic technologies of technical communication
 =============================================
 
 
-![Markdown logo](/assets/images/Markdown_logo.jpg)
-![GitHub logo](/assets/images/GitHub_logo.jpg)
-
-- [Basic technologies of technical communication](#basic-technologies-of-technical-communication)
-- [Table of contents](#table-of-contents)
-  - [1. About these instructions](#1-about-these-instructions)
-  - [2.  Target groups](#2--target-groups)
-  - [Enjoy your work!](#enjoy-your-work)
-
 # Table of contents
 
 {: .no_toc}
@@ -42,7 +33,7 @@ You will also learn how to install the necessary software.
 The operating instructions are intended for anyone who:
 * Would like to know the basics of Markdown 
 * Would like to learn to work with a simple text editor like Visual Studio Code
-* Would like to create an account on the GitHub server 
+* Would like to create an account on the GitHub server and work on it
 * Would like to publish its first web pages
 
 ## Enjoy your work!

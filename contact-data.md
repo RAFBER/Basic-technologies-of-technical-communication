@@ -3,7 +3,6 @@ layout: default
 title: Contact data 
 nav_order: 5
 description:  "Contact"
-permalink: /
 ---
 
 Contact data

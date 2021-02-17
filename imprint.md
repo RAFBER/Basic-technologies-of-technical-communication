@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Imprint 
-nav_order: 5
+nav_order: 4
 description:  "User guide data"
-permalink: /
 ---
 
 Imprint
