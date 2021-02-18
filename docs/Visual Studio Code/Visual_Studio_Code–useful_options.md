@@ -12,7 +12,7 @@ nav_order: 2
 2.	Function: *Open preview to decide*. 
     To open preview click the icon in upper-right corner:
 
-    ![Preview](/assets/images/Open_preview_to_decide.png)
+    ![Preview](../assets/images/Open_preview_to_decide.png)
 
     Function *Open preview to decide* is specifically customized to the Markdown. Be sure that the your file is saved as a Markdown (.md extension) file. The preview shows how the content will be displayed in HTML.  
 3.	Hints: Ctrl+Space  
