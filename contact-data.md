@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Contact data 
+title: Contact  
 nav_order: 7
 ---
 
-# Contact data
+# Contact 
 
 
 Rafal Bertolassi  
