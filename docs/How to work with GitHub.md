@@ -11,18 +11,18 @@ nav_order: 4
 ![GitHub logo](../assets/images/GitHub_logo.png)
 
 - [How to work with GitHub](#how-to-work-with-github)
-- [1. What is GitHub?](#1-what-is-github)
-  - [What is the Git, GitHub and GitHub Desktop Client?](#what-is-the-git-github-and-github-desktop-client)
-- [2. How to create an account on GitHub?](#2-how-to-create-an-account-on-github)
-- [3. GitHub Desktop Client](#3-github-desktop-client)
-- [4. Working with GitHub](#4-working-with-github)
-  - [4.1 Creating a new repository](#41-creating-a-new-repository)
-    - [4.1.1 Creating a new repository in GitHub Desktop Client](#411-creating-a-new-repository-in-github-desktop-client)
-    - [4.1.2 Creating a new repository on the GitHub server.](#412-creating-a-new-repository-on-the-github-server)
-- [4.2 Making the repository available to other users](#42-making-the-repository-available-to-other-users)
-- [4.3 Create a public *GitHub Pages* repository](#43-create-a-public-github-pages-repository)
+- [What is GitHub?](#what-is-github)
+  - [What is the Git, GitHub and GitHub Desktop?](#what-is-the-git-github-and-github-desktop)
+- [How to create an account on GitHub?](#how-to-create-an-account-on-github)
+- [GitHub Desktop](#github-desktop)
+- [Working with GitHub](#working-with-github)
+  - [Creating a new repository](#creating-a-new-repository)
+    - [Creating a new repository in GitHub Desktop](#creating-a-new-repository-in-github-desktop)
+    - [Creating a new repository on the GitHub server.](#creating-a-new-repository-on-the-github-server)
+- [Making the repository available to other users](#making-the-repository-available-to-other-users)
+- [Create a public *GitHub Pages* repository](#create-a-public-github-pages-repository)
 
-# 1. What is GitHub?
+# What is GitHub?
 * GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 * It was created by Linus Torvalds.  
@@ -33,14 +33,14 @@ the GitHub server, from where we can share them with other GitHub users.
 joining is called **merge**). Branches are also useful for solo work, when we're working on a draft version and then we include it in the official version.
 
 
-## What is the Git, GitHub and GitHub Desktop Client?
+## What is the Git, GitHub and GitHub Desktop?
 Git is a distributed version control system. This is a tool, conception.  
 GitHub is a cloud-based hosting service that lets you manage Git repositories.  
-GitHub Desktop Client is a special application to menage the content on the GitHub server from local PC.
+GitHub Desktop is a special application to menage the content on the GitHub server from local PC.
 
 To work with GitHub you need to create an account on it.
 
-# 2. How to create an account on GitHub?
+# How to create an account on GitHub?
 
 * Go to [github.com](https://github.com/) and click *Sign up for GitHub*.  
 
@@ -67,21 +67,21 @@ To work with GitHub you need to create an account on it.
   [Video tutorials](https://www.youtube.com/githubguides)
 
 
-# 3. GitHub Desktop Client
+# GitHub Desktop
 
-To work with GitHub hosting service you should install also the GitHub Desktop Client on your PC.  
-To installation instructions of the GitHub Desktop Client go to:  
+To work with GitHub hosting service you should install also the GitHub Desktop on your PC.  
+To installation instructions of the GitHub Desktop go to:  
 [GitHub Desktop installation](GitHub-Desktop.md)
 
 
-# 4. Working with GitHub
+# Working with GitHub
 
-## 4.1 Creating a new repository
+## Creating a new repository
 
 It can create a new repository in two ways:  
-Locally in the Github Desktop Client application and directly on the GitHub server.
+Locally in the Github Desktop application and directly on the GitHub server.
 
-### 4.1.1 Creating a new repository in GitHub Desktop Client
+### Creating a new repository in GitHub Desktop
 
 * File tab> New repository.
 
@@ -107,7 +107,7 @@ Locally in the Github Desktop Client application and directly on the GitHub serv
 
   ![GHDC new repository](../assets/images/GitHub_08.png)
 
-### 4.1.2 Creating a new repository on the GitHub server.
+### Creating a new repository on the GitHub server.
 
 You can create a new repository directly on the GitHub server as well. To create it proceed as follows:
 
@@ -156,7 +156,7 @@ You can create a new repository directly on the GitHub server as well. To create
 
   In either case, the procedure for creating a new repository is the same.
 
-# 4.2 Making the repository available to other users
+# Making the repository available to other users
 
 If you created a new repository as a "Private" you can invite selected users to share it.  
 To invite selected users to your private repository proceed as follows:
@@ -200,7 +200,7 @@ GitHub automatically sent the message to email address provided on the GitHub se
 
    Refresh the page if you don't see the invited user after his acceptance.
 
-# 4.3 Create a public *GitHub Pages* repository
+# Create a public *GitHub Pages* repository
 
 *GitHub Pages* is designed to host your personal, organization, or project pages from a GitHub repository.
 
