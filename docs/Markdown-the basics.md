@@ -16,7 +16,7 @@ nav_order: 2
 {:toc}
 
 
-# 1. Introduction
+# Introduction
 ## What is Markdown?  
 Markdown is a simple text format. This is the so-called “quick documentation” standard in IT branch and related fields. It is mainly used to generate HTML files. With Markdown is possible to create the web pages without any additional tools. 
 
@@ -33,11 +33,11 @@ Markdown is a simple text format. This is the so-called “quick documentation�
 * Markdown is a simple to simple things but more difficult to more complicated (e.g. tables, formulas)
 * Markdown is a text format – during the transfer between different tools/technologies needs to be aware of the line break and character encoding
 
-# 2. Functionality
+# Functionality
 
-## 2.1. Main function of the text format 
+## Main function of the text format 
 
-### 2.1.1 Tittle
+### Tittle
 
 <!-- Example for title -->
     Title
@@ -45,7 +45,7 @@ Markdown is a simple text format. This is the so-called “quick documentation�
 
 **Note:** The "Tittle" should be one in current document otherwise the document structure will be wrong. 
 
-### 2.1.2 Paragraph
+### Paragraph
 
 <!--Example of paragraph of text-->
     This is a paragraph of text.
@@ -60,7 +60,7 @@ Markdown is a simple text format. This is the so-called “quick documentation�
     Paragraph of text that spans over he line. See how this displays when I write and write and write. What happens when I press enter? Nothing!  
     If I want a new line, I put two spaces and them Enter. This is still the same paragraph.
 
-### 2.1.3 Bold, Italic, Quote
+### Bold, Italic, Quote
 
 <!--Example for bold text-->
 * See how to insert **bold** text!  
@@ -77,9 +77,9 @@ Markdown is a simple text format. This is the so-called “quick documentation�
   And he was right.
 
 
-## 2.2 Creating a document structure 
+## Creating a document structure 
 
-### 2.2.1 Headers
+### Headers
 
 <!--Example for Headers-->
     # Header of chapter 1
@@ -105,7 +105,7 @@ Markdown is a simple text format. This is the so-called “quick documentation�
     ### 2.2.1 Chapter
     More chapter text.- [Sample document](#sample-document)
 
-### 2.2.2 Table of contents
+### Table of contents
 
 To create the *Table of contents* proceed as follows:  
 * Click the mouse cursor in the proper place of the document where you would like to implement the *Table of contents*
@@ -119,7 +119,7 @@ For the extension installation procedure please refer to the document *Visual St
 [Visual Studio Code – useful options](Visual_Studio_Code–useful_options.md)
 
 <!--Example for Bullet list-->
-### 2.2.3 Bullet list
+### Bullet list
 * bullet
 * another bullet
 * more bullets
@@ -130,7 +130,7 @@ For the extension installation procedure please refer to the document *Visual St
      * more bullets
 
 <!--Example for Numbered list-->
-### 2.2.4 Numbered list
+### Numbered list
 1. First point
 2. Second point
 3. Third point
@@ -142,18 +142,18 @@ For the extension installation procedure please refer to the document *Visual St
 
 
 <!--Example text with equation-->
-### 2.2.5 Equation
+### Equation
 If x=2 then it's a relatively small x.
 
 <!--Example for in line code-->
-### 2.2.6 In line code
+### In line code
 If you specify `x=2;` then your program will substitute 2 for x.
 
 <!--Example for in line code-->
     If you specify `x=2;` then your program will substitute 2 for x.
 
 <!--A block of code-->
-### 2.2.7 Block of code
+### Block of code
 
 Here comes a code block:
 ```
@@ -163,7 +163,7 @@ z=x+y;
 ```
 
 <!--Example for Table-->
-### 2.2.8 Table
+### Table
 
 | header      | another header      |
 | ----------- | ------------------- |
@@ -180,7 +180,7 @@ z=x+y;
 
 Paragraph after table
 
-## 2.3 Images  
+## Images  
 
 <!--Example for Images-->
 ![Text to display if no image](../assets/images/Photo.png)
@@ -188,7 +188,7 @@ Paragraph after table
 <!--Example for Images-->
     ![Text to display if no image](/assets/images/Photo.png)
 
-## 2.4 Links to other source  
+## Links to other source  
 
 <!--Example for links-->
 [Weather](http://meteo.pl)
@@ -205,10 +205,11 @@ Example for linking to another file.
 
     [Reference](Test.md)
 
-## 2.5 Variables
+## Variables
 
 ## Variables
 {: .no_toc}
+
 1. first
 2. second
 3. third
@@ -219,7 +220,7 @@ Example for linking to another file.
     2. second
     3. third
 
-## 2.6 Helpful links
+## Helpful links
 
 [Markdown cheat-sheet](./PDF/markdown-cheatsheet.pdf)
 
