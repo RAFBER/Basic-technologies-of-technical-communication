@@ -19,7 +19,8 @@ nav_order: 4
   - [4.1 Creating a new repository](#41-creating-a-new-repository)
     - [4.1.1 Creating a new repository in GitHub Desktop Client](#411-creating-a-new-repository-in-github-desktop-client)
     - [4.1.2 Creating a new repository on the GitHub server.](#412-creating-a-new-repository-on-the-github-server)
-- [4.2 Working with the files](#42-working-with-the-files)
+- [4.2 Making the repository available to other users](#42-making-the-repository-available-to-other-users)
+- [4.3 Create a public *GitHub Pages* repository](#43-create-a-public-github-pages-repository)
 
 # 1. What is GitHub?
 * GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -155,9 +156,56 @@ You can create a new repository directly on the GitHub server as well. To create
 
   In either case, the procedure for creating a new repository is the same.
 
-# 4.2 Working with the files
+# 4.2 Making the repository available to other users
 
+If you created a new repository as a "Private" you can invite selected users to share it.  
+To invite selected users to your private repository proceed as follows:
 
+* Select the private repository you want to share.
 
+   ![Rep_1](../assets/images/Rep_1.png)
+
+* Click the **Settings** (1) and **Manage access** (2) later on. 
+
+   ![Rep_2](../assets/images/Rep_2.png)
+
+* The following window should appear:
+
+   ![Rep_3](../assets/images/Rep_3.png)
+
+* Click **Invite a collaborator**. In the dialog box, search for and enter the name of the user you want to invite and click **Invite a collaborator**.
+
+   ![Rep_4](../assets/images/Rep_4.png)
+
+* In the next step click **Add the *selected user* to this repository**.
+
+   ![Rep_5](../assets/images/Rep_5.png)
+
+* The following dialog should appear:
+
+   ![Rep_6](../assets/images/Rep_6.png)
+
+* Your invitation is waiting now for the invited user acceptance.  
+GitHub automatically sent the message to email address provided on the GitHub server. The invited user has to accept them by clicking "accept" in the message he has received.  
+
+   ![Rep_7](../assets/images/Rep_7.png)
+
+* After acceptance by invited user the *Direct access* should be change from "0 collaborators"
+
+   ![Rep_8](../assets/images/Rep_8.png)
+
+   To "1 collaborator" (or more if you invite more than one user). 
+
+   ![Rep_9](../assets/images/Rep_9.png)
+
+   Refresh the page if you don't see the invited user after his acceptance.
+
+# 4.3 Create a public *GitHub Pages* repository
+
+*GitHub Pages* is designed to host your personal, organization, or project pages from a GitHub repository.
+
+There are two ways to create the public repository *GitHub pages*:  
+* Create a new repository as a "Public" from the beginning and
+* 
 
 
