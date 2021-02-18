@@ -10,17 +10,11 @@ nav_order: 4
 
 ![GitHub logo](../assets/images/GitHub_logo.png)
 
-- [How to work with GitHub](#how-to-work-with-github)
-- [What is GitHub?](#what-is-github)
-  - [What is the Git, GitHub and GitHub Desktop?](#what-is-the-git-github-and-github-desktop)
-- [How to create an account on GitHub?](#how-to-create-an-account-on-github)
-- [GitHub Desktop](#github-desktop)
-- [Working with GitHub](#working-with-github)
-  - [Creating a new repository](#creating-a-new-repository)
-    - [Creating a new repository in GitHub Desktop](#creating-a-new-repository-in-github-desktop)
-    - [Creating a new repository on the GitHub server.](#creating-a-new-repository-on-the-github-server)
-- [Making the repository available to other users](#making-the-repository-available-to-other-users)
-- [Create a public *GitHub Pages* repository](#create-a-public-github-pages-repository)
+## Table of contents
+{: .no_toc}
+
+1. TOC
+{:toc}
 
 # What is GitHub?
 * GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
