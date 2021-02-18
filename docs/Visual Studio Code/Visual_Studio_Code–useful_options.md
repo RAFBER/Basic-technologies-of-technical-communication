@@ -23,16 +23,16 @@ For example: it shows a double space that marks the beginning of a new line in t
     * Use the keys Ctrl+Shift+P. Enter the *Preferences* in the command field.   
       The following drop-down list should appear:
 
-      ![Prompting formating](/assets/images/Prompting_formating_01.png)
+      ![Prompting formating](../assets/images/Prompting_formating_01.png)
 
     * Choose the option *Configure Language Specific Settings*  
       From the drop-down list choose the *Markdown* option as shown below:  
 
-      ![Prompting formating](/assets/images/Prompting_formating_02.png)
+      ![Prompting formating](../assets/images/Prompting_formating_02.png)
 
     * The following settings.json file should appear:
       
-      ![Prompting formating](/assets/images/Prompting_formating_03.png)
+      ![Prompting formating](../assets/images/Prompting_formating_03.png)
 
 
       Set "editor.suggest.showWords" to *false*.
@@ -41,15 +41,15 @@ For example: it shows a double space that marks the beginning of a new line in t
 
     * Outline. It allows to navigate between the headings.  
   
-      ![Outline](/assets/images/Outline.png)
+      ![Outline](../assets/images/Outline.png)
 
     * Ctrl+Shift+P > Command preview
   
-      ![Ctrl+Shift+P](/assets/images/Command_preview.png)
+      ![Ctrl+Shift+P](../assets/images/Command_preview.png)
 
     * Breadcrumbs.  It allows to navigate between the folder, files and files sections.
 
-      ![Breadcrumbs](/assets/images/Breadcrumbs.png)
+      ![Breadcrumbs](../assets/images/Breadcrumbs.png)
  
 
 7.	Extensions installation. Extensions improve the functioning of the program    for specific applications.  
@@ -59,16 +59,16 @@ View tab> Extensions> Markdown All In One> Install
 
     * Click the "View" tab and choose the *Extensions* from the drop-down list.
 
-      ![Extensions](/assets/images/Extensions_01.png)
+      ![Extensions](../assets/images/Extensions_01.png)
 
 
     * Enter the *Markdown* in the command field on the left side of VS Code desktop, choose the *Markdown All in One* and click the **Install** button.
 
-      ![Extensions](/assets/images/Extensions_02.png)
+      ![Extensions](../assets/images/Extensions_02.png)
 
     * The extension screen appears with table of contents. In this place you have access to all information about *Markdown All in One* extension. 
 
-       ![Extensions](/assets/images/Extensions_03.png)
+       ![Extensions](../assets/images/Extensions_03.png)
 
 
     * Close the file if you don't need it more. Use the shortcut key Ctrl+F4.  
