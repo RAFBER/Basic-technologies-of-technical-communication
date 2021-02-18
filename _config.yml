@@ -5,8 +5,6 @@ remote_theme: RAFBER/just-the-docs
 
 color_scheme: dark
 
-# logo: "/assets/images/Morris_badge.png"
-
 aux_links:
   "Source repository on GitHub":
     - "//github.com/RAFBER/Basic-technologies-of-technical-communication"

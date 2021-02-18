@@ -14,7 +14,7 @@ To install Visual Studio Code go to page https://code.visualstudio.com/, downloa
 
 1. Double-click the **VSCodeUser** setup file.  
 
-   ![VSCodeSetup.exe](/assets/images/2_.exe_file.png)
+   ![VSCodeSetup.exe](//assets/images/2_.exe_file.png)
 
 2. Click the **Launch** button.  
 
@@ -40,7 +40,7 @@ To install Visual Studio Code go to page https://code.visualstudio.com/, downloa
 
 7. Select Start Menu folder and click **Next**.
    
-   ![Start Menu Folder](/assets/images/9_Shortcut_location.png) 
+   ![Start Menu Folder](/assets/images/9_Shortcut_location.png)
 
 8. Mark *Create desktop icon* if you would like the shortcut on your desktop and mark  
    the additional installation tasks and click **Next**.
