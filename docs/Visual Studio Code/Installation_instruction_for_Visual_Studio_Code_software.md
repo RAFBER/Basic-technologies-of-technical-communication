@@ -13,9 +13,9 @@ nav_order: 1
 To install Visual Studio Code go to page https://code.visualstudio.com/, download the setup file and proceed as follows:
 
 1. Double-click the **VSCodeUser** setup file.  
-   
-   ![VSCodeSetup.exe](/./assets/images/2_.exe_file.png)
-   
+
+   ![VSCodeSetup.exe](/assets/images/2_.exe_file.png)
+
 2. Click the **Launch** button.  
 
    ![Launch button](/assets/images/3_Launch_button.png)
