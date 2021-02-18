@@ -206,6 +206,15 @@ GitHub automatically sent the message to email address provided on the GitHub se
 
 There are two ways to create the public repository *GitHub pages*:  
 * Create a new repository as a "Public" from the beginning and
-* 
+* Change the "Private" repository to "Public" repository
+
+
+
+
+
+
+
+
+**Note:** This step must also by performed if you create a new repository from the beginning.
 
 
