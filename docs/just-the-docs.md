@@ -15,7 +15,7 @@ nav_order: 7
 * Built-in search
 * Open source type license
 
-Learn more
+Learn more about Just the Docs
 
-[just-the-docs](https://pmarsceill.github.io/just-the-docs/)
+[Just the Docs](https://pmarsceill.github.io/just-the-docs/)
 

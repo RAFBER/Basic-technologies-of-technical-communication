@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Markdown
-nav_order: 2
+nav_order: 3
 ---
 
 # Markdown-the basics
