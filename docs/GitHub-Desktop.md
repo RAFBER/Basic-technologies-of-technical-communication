@@ -11,7 +11,7 @@ nav_order: 4
 **Warning:** These Installation instructions are for Windows 7 64bit. 
           You must have a 64-bit operating system to run GitHub Desktop.
 
-To install GitHub Desktop Client go to page https://desktop.github.com/ and proceed as follows:
+To install GitHub Desktop Client go to page [GitHub Desktop](https://desktop.github.com/) and proceed as follows:
 
 1. Click the **Download for Windows** button and download the setup file.  
    

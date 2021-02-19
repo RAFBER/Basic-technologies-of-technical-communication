@@ -9,4 +9,4 @@ nav_order: 9
 
 Rafal Bertolassi  
 
-email address: rafal.bertolassi@gmail.com
+email: rafal.bertolassi@gmail.com

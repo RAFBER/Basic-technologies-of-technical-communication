@@ -155,6 +155,8 @@ You can create a new repository directly on the GitHub server as well. To create
 
 
 
+
+
 # Making the repository available to other users
 
 If you created a new repository as a "Private" you can invite selected users to share it.  
