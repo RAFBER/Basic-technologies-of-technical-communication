@@ -178,7 +178,7 @@ To add the files into the GitHub repository proceed as follows:
   ![VSCode](../assets/images/VSCode_6.png)
 
 
-## Working with files, commits 
+# Working with files, commits 
 
 Important rules to work with GitHub:
 * Make a *Commit* after any meaningful changes in your file
@@ -186,7 +186,7 @@ Important rules to work with GitHub:
 
 You can always return to commits to see the changes.
 
-## Working in group
+# Working in group
 
 If you work in group is necessary to pull the changes into your local repository if you want to work on it.
 
