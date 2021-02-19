@@ -20,7 +20,7 @@ To install Visual Studio Code go to page https://code.visualstudio.com/, downloa
 
    ![Launch button](../assets/images/3_Launch_button.png)
 
-3. Select the proper language version and click **Ok**.
+3. Choose the proper language version and click **Ok**.
 
    ![Language version](../assets/images/4_Language_version.png)..
 
@@ -38,7 +38,7 @@ To install Visual Studio Code go to page https://code.visualstudio.com/, downloa
 
    ![Location of the installation](../assets/images/8_Location_of_the_installation.png)
 
-7. Select Start Menu folder and click **Next**.
+7. Choose Start Menu folder and click **Next**.
    
    ![Start Menu Folder](../assets/images/9_Shortcut_location.png)
 
