@@ -21,6 +21,7 @@ permalink: /
 This *User guide* contain basic information about the Markdown, installation of necessary software and work with the GitHub server.  
 This *User guide* will help you to create first web page using simple text format Markdown and GitHub hosting server.  
 You will also learn how to install the necessary software.  
+Using this *User guide* you publish your first web site using the Jekyll Static Site Generator with the Just the Docs template. 
 
 * Read these user guide very carefully and pay attention to the information contained within, before start your work on first web page, software installation and creation an account on the GitHub server
 * Ensure that the operating instructions are understood by you.
