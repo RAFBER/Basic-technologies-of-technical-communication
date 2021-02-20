@@ -10,7 +10,7 @@ nav_order: 1
 
 **Note**: These installation instructions are for Windows 7 64bit.
 
-To install Visual Studio Code go to page https://code.visualstudio.com/, download the setup file and proceed as follows:
+To install Visual Studio Code go to page [VSCode](https://code.visualstudio.com/), download the setup file and proceed as follows:
 
 1. Double-click the **VSCodeUser** setup file.  
 

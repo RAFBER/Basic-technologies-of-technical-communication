@@ -3,7 +3,7 @@ title: User guide
 description: Repository to publish first website as portfolio, using the Just the Docs Jekyll theme
 remote_theme: RAFBER/just-the-docs
 
-color_scheme: light
+color_scheme: RAFBER
 
 aux_links:
   "Source repository on GitHub":
