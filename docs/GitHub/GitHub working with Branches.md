@@ -122,7 +122,7 @@ Use a branch always if you would like to isolate your work without affecting to 
   
    ![Branches](../assets/images/Branches_21.png)
 
-* Your collaborator should delete this branch in your GitHub Desktop.
+* Your collaborator should delete this branch in his GitHub Desktop.
 
    ![Branches](../assets/images/Branches_22.png)
 
