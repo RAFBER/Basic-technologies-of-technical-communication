@@ -37,6 +37,6 @@ To install the GitHub Desktop on your PC go to page [GitHub Desktop](https://des
 
 5. Helpful links.
 
-   [GitHub Desktop Client Overview](https://desktop.github.com//)
+   [GitHub Desktop Overview](https://desktop.github.com//)
 
    [Online Help](https://docs.github.com/en/desktop)
