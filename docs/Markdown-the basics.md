@@ -46,8 +46,6 @@ Markdown entry text:
       Title  
       =====
 
-**Note:** The "Title" should be one in current document otherwise the document structure will be wrong. 
-
 ## Paragraph
 
 <!--Example of paragraph of text-->
