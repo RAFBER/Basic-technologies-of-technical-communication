@@ -7,5 +7,28 @@ has_children: true
 
 # Visual Studio Code
 
-Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity).
+![VSCode logo](../assets/images/VSCode_logo.png)
+
+# Why Visual Studio Code?
+
+* First of all the VSCode is a freeware editor
+* Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. You can change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality.
+* Visual Studio Code can be extended via many extensions available through a central repository.
+
+
+Learn more about Visual Studio Code  
+[VSCode source-code editor](https://code.visualstudio.com/)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
