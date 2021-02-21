@@ -255,11 +255,6 @@ Paragraph after table
 
     [Validation](https://validator.w3.org/nu/#textare)
 
-Example for linking to another file.  
-
-[Reference](./Visual%20Studio%20Code/Visual_Studio_Code–useful_options.md)
-
-    [Reference](./Visual%20Studio%20Code/Visual_Studio_Code–useful_options.md)
 
 ## Variables
 
@@ -278,8 +273,6 @@ Example for linking to another file.
 
 # Helpful links
 
-[Markdown cheat-sheet](../assets/pdfs/markdown-cheatsheet.pdf)
-
 [Markdown specifications](https://daringfireball.net/projects/markdown/)
 
 [Markdown tutorial](https://commonmark.org/help/tutorial/index.html)
@@ -288,8 +281,5 @@ Example for linking to another file.
 
 [Visual Studio Code extensions for Markdown](https://github.com/mundimark/awesome-markdown)
 
-[Visual Studio Code – useful options](./Visual%20Studio%20Code/Visual_Studio_Code–useful_options.md)
 
-To install Visual Studio Code go to:  
 
-[VS Code installation instructions](./Visual%20Studio%20Code/Installation_instruction_for_Visual_Studio_Code_software.md)
