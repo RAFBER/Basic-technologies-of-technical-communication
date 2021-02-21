@@ -8,16 +8,24 @@ nav_order: 2
 # Visual Studio Code – useful options
 
 
-1.	Ctrl+Shift+P – Command preview
-2.	Function: *Open preview to decide*. 
-    To open preview click the icon in upper-right corner:
+1.	Ctrl+Shift+P – Command preview. It open the command field.
+
+    ![Preview](../assets/images/Command_preview_01.png)
+
+2.	Function *Open preview to decide*. 
+    It opens the current document preview by click the icon in upper-right corner:
 
     ![Preview](../assets/images/Open_preview_to_decide.png)
 
     Function *Open preview to decide* is specifically customized to the Markdown. Be sure that the your file is saved as a Markdown (.md extension) file. The preview shows how the content will be displayed in HTML.  
-3.	Hints: Ctrl+Space  
-4.	Displaying whitespace: [View] tab > Render Whitespace. Shows the spaces.  
+
+3.	Hints: Ctrl+Space   
+
+    ![Hints](../assets/images/Hints.png)
+
+4.	Displaying whitespace: [View] tab > Render Whitespace. It shows the spaces.  
 For example: it shows a double space that marks the beginning of a new line in the same paragraph.  
+
 5.	Prompting formating, not words: Ctrl+Shift+P > Preferences > Configure Language Specific Settings> Markdown> "editor.suggest.showWords": false  
 
     * Use the keys Ctrl+Shift+P. Enter the *Preferences* in the command field.   
@@ -25,7 +33,7 @@ For example: it shows a double space that marks the beginning of a new line in t
 
       ![Prompting formating](../assets/images/Prompting_formating_01.png)
 
-    * Choose the option *Configure Language Specific Settings*  
+    * Choose the option *Configure Language Specific Settings*.  
       From the drop-down list choose the *Markdown* option as shown below:  
 
       ![Prompting formating](../assets/images/Prompting_formating_02.png)
@@ -37,7 +45,7 @@ For example: it shows a double space that marks the beginning of a new line in t
 
       Set "editor.suggest.showWords" to *false*.
 
-6.	Functions for easier navigation.  They allow to navigate between the headings
+6.	Functions for easier navigation.  They allow to navigate between the headings.
 
     * Outline. It allows to navigate between the headings.  
   
@@ -52,7 +60,7 @@ For example: it shows a double space that marks the beginning of a new line in t
       ![Breadcrumbs](../assets/images/Breadcrumbs.png)
  
 
-7.	Extensions installation. Extensions improve the functioning of the program    for specific applications.  
+7.	Extensions installation. Extensions improve the functioning of the VSCode editor for the specific applications.  
 View tab> Extensions> Markdown All In One> Install
 
     To install *Markdown All in One* extension (and each other) proceed as follows:
@@ -80,17 +88,17 @@ View tab> Extensions> Markdown All In One> Install
 
 * Text format: Ctrl+Shift+P > Markdown All In One > Format Document  
 For example: it completes the table to a readable form.
-It hasn’t a impact how the table will be visible in HTML but is more readable when we send the file as a “readme document” or as a “release note”.
+It hasn’t a impact how the table will be visible in HTML but is more readable when we send the file as a “readme document” or “release note”.
 
 
 * Generating a table of contents: Ctrl+Shift+P > Markdown All In One > Create Table of Contents 
 or improves the table of contents
 
-For more details about Markdown All In One – go to page:  
+For more details about Markdown All In One – go to:  
 [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 
-For more details about Visual Studio Code extensions for Markdown go to page:  
+For more details about Visual Studio Code extensions for Markdown go to:  
 [Visual Studio Code extensions for Markdown](https://github.com/mundimark/awesome-markdown)
 
 [Visual Studio Code Extension Marketplace](https://code.visualstudio.com/docs/editor/extension-gallery)

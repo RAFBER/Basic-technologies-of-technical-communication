@@ -42,8 +42,7 @@ To install Visual Studio Code go to page [VSCode](https://code.visualstudio.com/
    
    ![Start Menu Folder](../assets/images/9_Shortcut_location.png)
 
-8. Mark *Create desktop icon* if you would like the shortcut on your desktop and mark  
-   the additional installation tasks and click **Next**.
+8. Mark *Create a desktop icon* if you would like to have the shortcut on your desktop and mark the additional installation tasks and click **Next**.
 
    ![Desktop icon shortcut](../assets/images/10_Desktop_icon.png) 
 
@@ -55,7 +54,7 @@ To install Visual Studio Code go to page [VSCode](https://code.visualstudio.com/
 
     ![Installation finished](../assets/images/12_Finish.png) 
 
-11. The main screen should appear. The Visual Studio Code is ready to work now.
+11. The main screen of editor should appear. The Visual Studio Code is ready to work now.
 
     ![Installation finished](../assets/images/13_VS_Code_Start.png) 
 
