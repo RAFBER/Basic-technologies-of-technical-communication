@@ -41,9 +41,10 @@ Markdown is a simple text format. This is the so-called â€œquick documentationâ€
 Text displayed after the rendering  
 
 Markdown entry text:  
+
 <!-- Example for title -->
-    Title  
-    =====
+      Title  
+      =====
 
 **Note:** The "Tittle" should be one in current document otherwise the document structure will be wrong. 
 
