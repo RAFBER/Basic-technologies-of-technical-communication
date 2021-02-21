@@ -46,7 +46,7 @@ Markdown entry text:
       Title  
       =====
 
-**Note:** The "Tittle" should be one in current document otherwise the document structure will be wrong. 
+**Note:** The "Title" should be one in current document otherwise the document structure will be wrong. 
 
 ## Paragraph
 
@@ -165,7 +165,7 @@ To create the *Table of contents* proceed as follows:
    ![Table of contents](../assets/images/ToC_1.png)
 
 For the extension installation procedure please refer to the document *Visual Studio Code - useful options*  
-[Visual Studio Code – useful options](Visual_Studio_Code–useful_options.md)
+[Visual Studio Code – useful options](./Visual%20Studio%20Code/Visual_Studio_Code–useful_options.md)
 
 <!--Example for Bullet list-->
 ## Bullet list
@@ -256,9 +256,10 @@ Paragraph after table
     [Validation](https://validator.w3.org/nu/#textare)
 
 Example for linking to another file.  
-**Note:** Both files must be in the same folder.  
 
-    [Reference](Test.md)
+[Reference](./Visual%20Studio%20Code/Visual_Studio_Code–useful_options.md)
+
+    [Reference](./Visual%20Studio%20Code/Visual_Studio_Code–useful_options.md)
 
 ## Variables
 
@@ -287,9 +288,9 @@ Example for linking to another file.
 
 [Visual Studio Code extensions for Markdown](https://github.com/mundimark/awesome-markdown)
 
-[Visual Studio Code – useful options](Visual_Studio_Code–useful_options.md)
+[Visual Studio Code – useful options](./Visual%20Studio%20Code/Visual_Studio_Code–useful_options.md)
 
 To install Visual Studio Code go to:  
 
-[VS Code installation instructions](Installation_instruction_for_Visual_Studio_Code_software.md)
+[VS Code installation instructions](./Visual%20Studio%20Code/Installation_instruction_for_Visual_Studio_Code_software.md)
 
