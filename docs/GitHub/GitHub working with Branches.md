@@ -24,7 +24,7 @@ Use a branch always if you would like to isolate your work without affecting to 
 
    ![Files structure](../assets/images/GitHub_Branch_Workflow.svg)
 
-   *Fig.1-1: Basic work flow of GitHub branch*
+   *Fig.2: Basic work flow of GitHub branch*
 
 
 # How it works? - Review process

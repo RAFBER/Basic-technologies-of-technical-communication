@@ -137,7 +137,7 @@ To clone the just-the-docs repository into your PC proceed as follows:
 In order for the site to be generated properly, the files structure must look as follows: 
 
    ![Files structure](../assets/images/Files_structure.svg)
-   *Fig.1-2: Basic configuration of the files structure in the repository to publish the website using just-the-docs template*
+   *Fig.1: Basic configuration of the files structure in the repository to publish the website using just-the-docs template*
 
 ### Configuration file
 
