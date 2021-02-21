@@ -62,7 +62,7 @@ Use a branch always if you would like to isolate your work without affecting to 
 
    ![Branches](../assets/images/Branches_7.png)
 
-   The new branch exist now only in collaborator PC. He should Publish branch into repository by click thr **Publish branch** button.
+   The new branch exist now only in collaborator PC. He should publish the new branch into your repository by click thr **Publish branch** button.
 
    ![Branches](../assets/images/Branches_8.png)
 
@@ -74,11 +74,11 @@ Use a branch always if you would like to isolate your work without affecting to 
 
    ![Branches](../assets/images/Branches_10.png)
 
-* After the changes implemented in file he work on he should make a commit and Push origin AND THEN MAKE A *Pull request* by click the **Create pull request** button.
+* After the changes implemented in file he work on he should make a commit and *Push origin* and then make *Pull request* by click the **Create pull request** button.
 
    ![Branches](../assets/images/Branches_11.png)
 
-* In the next step he need to type a comment (1), choose a reviewer (2) and click the **Create pull request** button.
+* In the next step he needs to type a comment (1), choose a reviewer (2) and click the **Create pull request** button.
 
    ![Branches](../assets/images/Branches_12.png)
 
