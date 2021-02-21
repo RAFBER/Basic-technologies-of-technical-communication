@@ -11,7 +11,7 @@ has_children: true
 
 # Why Visual Studio Code?
 
-* First of all the VSCode is a freeware editor
+* VSCode is a freeware editor
 * Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. You can change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality.
 * Visual Studio Code can be extended via many extensions available through a central repository.
 
