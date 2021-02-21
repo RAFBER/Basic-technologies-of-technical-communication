@@ -40,7 +40,14 @@ Markdown is a simple text format. This is the so-called â€œquick documentationâ€
 ### Tittle
 
 <!-- Example for title -->
-    Title
+Text displayed ofter the rendering  
+
+Title
+=====
+
+Markdown entry text:
+<!-- Example for title -->
+    Title  
     =====
 
 **Note:** The "Tittle" should be one in current document otherwise the document structure will be wrong. 
@@ -63,23 +70,69 @@ Markdown is a simple text format. This is the so-called â€œquick documentationâ€
 ### Bold, Italic, Quote
 
 <!--Example for bold text-->
-* See how to insert **bold** text!  
-*     See how to insert **bold** text!
+* See how to insert **bold** text!
+
+<!--Example for bold text-->
+     See how to insert **bold** text!
 
 <!--Example for Italic-->
 * And that's *How italic is defined*.
 
+<!--Example for Italic-->
+    And that's *How italic is defined*.
+
+<!--Example for quote-->
 * Example for Quote
-* A wise man once said:
+
+  A wise man once said:
   >Don't listen to me!  
   >Why would you?
 
   And he was right.
 
+<!--Example for quote-->
+      A wise man once said:
+      >Don't listen to me!  
+      >Why would you?
+
+      And he was right.
 
 ## Creating a document structure 
 
 ### Headers
+
+<!--Example for Headers-->
+# Header of chapter 1
+{: .no_toc}  
+This is a paragraph of text.This is a paragraph of text.This is a paragraph of text.This is a paragraph of text.This is a paragraph of text.
+# Header of chapter 2
+{: .no_toc}  
+This is a paragraph of text.This is a paragraph of text.This is a paragraph of text.This is a paragraph of text.This is a paragraph of text.
+
+## Chapter 2.1
+{: .no_toc}  
+Chapter text.
+## Chapter 2.2
+{: .no_toc}  
+More chapter text.
+
+Or (second option)
+
+# 1. Header of chapters
+{: .no_toc}  
+This is a paragraph of text.This is a paragraph of text.This is a paragraph of text.This is a paragraph of text.This is a paragraph of text.
+# 2. Header of chapter
+{: .no_toc}  
+This is a paragraph of text.This is a paragraph of text.This is a paragraph of text.This is a paragraph of text.This is a paragraph of text.
+## 2.1 Chapter
+{: .no_toc}  
+Chapter text.
+## 2.2 Chapter
+{: .no_toc}  
+More chapter text.
+### 2.2.1 Chapter
+{: .no_toc}  
+More chapter text.
 
 <!--Example for Headers-->
     # Header of chapter 1
@@ -145,6 +198,9 @@ For the extension installation procedure please refer to the document *Visual St
 ### Equation
 If x=2 then it's a relatively small x.
 
+<!--Example text with equation-->
+    If x=2 then it's a relatively small x.
+
 <!--Example for in line code-->
 ### In line code
 If you specify `x=2;` then your program will substitute 2 for x.
@@ -161,6 +217,8 @@ x=2;
 y=7;
 z=x+y;
 ```
+
+![Text to display if no image](../assets/images/Code_block.png)
 
 <!--Example for Table-->
 ### Table
@@ -201,7 +259,6 @@ Paragraph after table
 
 Example for linking to another file.  
 **Note:** Both files must be in the same folder.  
-[Reference](Test.md)
 
     [Reference](Test.md)
 

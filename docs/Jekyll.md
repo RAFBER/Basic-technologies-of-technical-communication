@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jekyll
-nav_order: 7
+nav_order: 6
 ---
 
 # Jekyll - most popular Static Site Generator
