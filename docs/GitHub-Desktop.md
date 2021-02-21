@@ -7,6 +7,7 @@ nav_order: 4
 
 # GitHub Desktop - Installation instructions
 
+To work with GitHub hosting service you should install the GitHub Desktop on your PC.  
 
 **Warning:** These Installation instructions are for Windows 7 64bit. 
           You must have a 64-bit operating system to run GitHub Desktop.

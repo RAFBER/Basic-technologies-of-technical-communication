@@ -20,7 +20,7 @@ nav_order: 1
 
 To work with GitHub you need to create an account on it.
 
-# How to create an account on GitHub?
+# How to create an account on the GitHub server?
 
 * Go to [github.com](https://github.com/) and click *Sign up for GitHub*.  
 
@@ -47,21 +47,12 @@ To work with GitHub you need to create an account on it.
   [Video tutorials](https://www.youtube.com/githubguides)
 
 
-# GitHub Desktop
-
-To work with GitHub hosting service you should install also the GitHub Desktop on your PC.  
-To installation instructions of the GitHub Desktop go to:  
-[GitHub Desktop installation](GitHub-Desktop.md)
-
-
-# Working with GitHub
-
-## Creating a new repository
+# Creating a new repository
 
 It can create a new repository in two ways:  
 Locally in the Github Desktop application and directly on the GitHub server.
 
-### Creating a new repository in GitHub Desktop
+## Creating a new repository in the GitHub Desktop
 
 * File tab> New repository.
 
@@ -87,7 +78,7 @@ Locally in the Github Desktop application and directly on the GitHub server.
 
   ![GHDC new repository](../assets/images/GitHub_08.png)
 
-### Creating a new repository on the GitHub server.
+## Creating a new repository on the GitHub server
 
 You can create a new repository directly on the GitHub server as well. To create it proceed as follows:
 
@@ -151,7 +142,7 @@ To add the files into the GitHub repository proceed as follows:
 
    ![VSCode](../assets/images/VSCode_3.png)
 
-* Your file is visible now in GitHub Desktop with changes you have made. Add the description in the *Comment field* (1) (mandatory) and click the **Commit to main** (2) button.
+* Your file is visible now in GitHub Desktop with changes you have made. Add the description in the *Comment field* (1) (mandatory) and click the **Commit to main** button (2).
 
   ![VSCode](../assets/images/VSCode_4.png)
 
@@ -190,7 +181,7 @@ To pull the changes on your local PC proceed as follows:
 
 # Making the repository available to other users
 
-If you created a new repository as a "Private" you can invite selected users to share it.  
+If you created a new repository as "Private" you can invite selected users to share it.  
 To invite selected users to your private repository proceed as follows:
 
 * Choose the private repository you want to share.
