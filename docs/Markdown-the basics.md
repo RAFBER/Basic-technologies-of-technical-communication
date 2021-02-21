@@ -234,6 +234,22 @@ z=x+y;
 
 Paragraph after table
 
+## Variables
+
+## Variables
+{: .no_toc}
+
+1. first
+2. second
+3. third
+
+<!--Example for Variables-->
+    # Variables
+    1. first
+    2. second
+    3. third
+
+
 # References
 
 ## Images  
@@ -255,21 +271,6 @@ Paragraph after table
 
     [Validation](https://validator.w3.org/nu/#textare)
 
-
-## Variables
-
-## Variables
-{: .no_toc}
-
-1. first
-2. second
-3. third
-
-<!--Example for links-->
-    # Variables
-    1. first
-    2. second
-    3. third
 
 # Helpful links
 

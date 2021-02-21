@@ -7,7 +7,7 @@ has_children: true
 
 # Visual Studio Code
 
-![VSCode logo](../assets/images/VSCode_logo.png){: style="width: 500px;"}
+![VSCode logo](../assets/images/VSCode_logo.png){: style="width: 200px;"}
 
 # Why Visual Studio Code?
 
