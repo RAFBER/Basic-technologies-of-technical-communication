@@ -40,10 +40,12 @@ Markdown is a simple text format. This is the so-called â€œquick documentationâ€
 ### Tittle
 
 <!-- Example for title -->
-Text displayed ofter the rendering  
+Text displayed after the rendering  
 
 Title
 =====
+{: .no_toc}
+
 
 Markdown entry text:
 <!-- Example for title -->
