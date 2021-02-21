@@ -6,7 +6,7 @@ description: "Basic technologies of technical communication"
 permalink: /
 ---
 
-# Basic technologies of technical communication
+# Let's start creating first website!
 {: .no_toc}
 
 
