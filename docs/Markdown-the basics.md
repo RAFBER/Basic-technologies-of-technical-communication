@@ -278,7 +278,7 @@ Example for linking to another file.
 
 # Helpful links
 
-[Markdown cheat-sheet](./PDF/markdown-cheatsheet.pdf)
+[Markdown cheat-sheet](../assets/pdfs/markdown-cheatsheet.pdf)
 
 [Markdown specifications](https://daringfireball.net/projects/markdown/)
 
@@ -288,9 +288,9 @@ Example for linking to another file.
 
 [Visual Studio Code extensions for Markdown](https://github.com/mundimark/awesome-markdown)
 
-[Visual Studio Code – useful options](./Visual%20Studio%20Code/Visual_Studio_Code–useful_options.md)
+[Visual Studio Code – useful options](../Visual%20Studio%20Code/Visual_Studio_Code–useful_options.md)
 
 To install Visual Studio Code go to:  
 
-[VS Code installation instructions](./Visual%20Studio%20Code/Installation_instruction_for_Visual_Studio_Code_software.md)
+[VS Code installation instructions](../Visual%20Studio%20Code/Installation_instruction_for_Visual_Studio_Code_software.md)
 
