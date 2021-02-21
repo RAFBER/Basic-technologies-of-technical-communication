@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GitHub pages
+title: GitHub Pages
 parent: GitHub
 nav_order: 2
 ---
@@ -19,74 +19,74 @@ nav_order: 2
 
 *GitHub Pages* is designed to host your personal, organization, or project pages from a GitHub repository.
 
-There are two ways to create the public repository *GitHub pages*:  
+There are two ways to create the public repository *GitHub Pages*:  
 * Create a new repository as "Public" from the beginning and
 * Change the "Private" repository to "Public" repository
 
-Creating a new repository procedure are described in *GitHub - tha basics* in the chapter *Creating a new repository*. If you created the new repository as "Private" you need to change it as "Public" and enable the *GitHub pages* functionality to this repository.
+Creating a new repository procedure are described in *GitHub - tha basics* in the chapter *Creating a new repository*. If you created the new repository as "Private" you need to change it as "Public" and enable the *GitHub Pages* functionality to this repository.
 
 To do this proceed as follows:
 
-* Choose the private repository you want to make public as a *GitHub pages* and click the **Settings** button (1) and **Manage access** (2) later on.
+* Choose the private repository you want to make public as a *GitHub Pages* and click the **Settings** button (1) and **Manage access** (2) later on.
 
-   ![GitHub pages](../assets/images/Rep_2.png)
+   ![GitHub Pages](../assets/images/Rep_2.png)
 
    **Note:** Confirm your password if prompted. 
 
 * The following dialog should appear:
 
-   ![GitHub pages](../assets/images/GitHub_pages_1.png)
+   ![GitHub Pages](../assets/images/GitHub_pages_1.png)
 
 *  Click the **Manage** link. You will be redirected to the *Danger zone* section. Click the **Change visibility** button.
 
-   ![GitHub pages](../assets/images/GitHub_pages_2.png)
+   ![GitHub Pages](../assets/images/GitHub_pages_2.png)
 
 * Mark the option *Make public* (1), type the indicated text into the comment field (2) and click the  
 **I understand, change repository visibility** button.
 
-   ![GitHub pages](../assets/images/GitHub_pages_4.png)
+   ![GitHub Pages](../assets/images/GitHub_pages_4.png)
 
 
-# Publication the web sites from the *GitHub Pages* repository
+# Publication the website from the *GitHub Pages* repository
 
-If you have the "Public" repository with the content then you need to enable the *GitHub pages* functionality on this repository. 
+If you have the "Public" repository with the content then you need to enable the *GitHub Pages* functionality on this repository. 
 
 **Note:** Below procedure must also by performed if you create a new repository as a "Public" from the beginning.
 
-* Choose the "Public" repository you want to enable *GitHub pages* functionality and click the **Settings** button (1) and **Options** (2) later on.
+* Choose the "Public" repository you want to enable *GitHub Pages* functionality and click the **Settings** button (1) and **Options** (2) later on.
 
-   ![GitHub pages](../assets/images/GitHub_pages_5.png)
+   ![GitHub Pages](../assets/images/GitHub_pages_5.png)
 
 * Scroll to the *GitHub pages* section. From the drop-down list (1) select the *main* branch (2) and then click the **Save** button (3).
 
-   ![GitHub pages](../assets/images/GitHub_pages_6.png)
+   ![GitHub Pages](../assets/images/GitHub_pages_6.png)
 
 **Note:** This feature does not work if you have an empty repository. You have to add the content to the repository first. 
 
 * Your site is ready to publish now. The following message should appear that your site is ready to be published
 
-   ![GitHub pages](../assets/images/GitHub_pages_7.png)
+   ![GitHub Pages](../assets/images/GitHub_pages_7.png)
 
 * Go to your repository and click the *Environments* 
 
-   ![GitHub pages](../assets/images/GitHub_pages_8.png)
+   ![GitHub Pages](../assets/images/GitHub_pages_8.png)
 
 * Click the **View deployment** button. Choose the last deployment that have been made. Refresh the page if necessary.
 
-   ![GitHub pages](../assets/images/GitHub_pages_9.png)
+   ![GitHub Pages](../assets/images/GitHub_pages_9.png)
 
 * Your site is published now!
 
    ![GitHub pages](../assets/images/GitHub_pages_10.png)
 
-* In the *GitHub pages* section (repository_name> options> scroll to Github pages section) the following message should appear:
+* In the *GitHub Pages* section (repository_name> options> scroll to Github Pages section) the following message should appear:
 
-   ![GitHub pages](../assets/images/GitHub_pages_11.png)
+   ![GitHub Pages](../assets/images/GitHub_pages_11.png)
 
-# Publication the web sites from the *GitHub Pages* repository using the Jekyll generator and Just the Docs template
+# Publication the website from the *GitHub Pages* repository using the Jekyll generator and Just the Docs template
 
 ## Jekyll 
-Jekyll is the GitHub-integrated Static Site Generator, which allows you to generate web sites using ready-made templates such as Just the Docs.
+Jekyll is the GitHub-integrated Static Site Generator, which allows you to generate website using ready-made templates such as Just the Docs.
 
 Learn more about Jekyll
 
@@ -107,7 +107,7 @@ To copy Just the Docs into yor account on the GitHub server go to [Just the Docs
 
 * Click the **Fork** button. 
 
-   ![GitHub pages](../assets/images/Just-the-Docs_1.png)
+   ![GitHub Pages](../assets/images/Just-the-Docs_1.png)
 
 **Note:** The *Fork* function make a files copy on your account without any connection with the source files. You can modify copied files without any effect for the files in primary source.
 
@@ -116,19 +116,19 @@ To clone the just-the-docs repository into your PC proceed as follows:
 
 * Click the **Code** button (1) and choose the *Open with GitHub Desktop* option (2).
   
-   ![GitHub pages](../assets/images/Just-the-Docs_2.png)
+   ![GitHub Pages](../assets/images/Just-the-Docs_2.png)
 
 * The following dialog should appear:
 
-  ![GitHub pages](../assets/images/Just-the-Docs_3.png)
+  ![GitHub Pages](../assets/images/Just-the-Docs_3.png)
 
   Click the URL tab. Choose the location for your created repository and click the **Clone** button.
 
 * Your new repository should appear in *Current repository* tab in the GitHub Desktop and new folder should be created in the indicated location.
 
-  ![GitHub pages](../assets/images/Just-the-Docs_4.png)
+  ![GitHub Pages](../assets/images/Just-the-Docs_4.png)
 
-  ![GitHub pages](../assets/images/Just-the-Docs_5.png)
+  ![GitHub Pages](../assets/images/Just-the-Docs_5.png)
 
 ## Files structure
 
@@ -137,14 +137,14 @@ To clone the just-the-docs repository into your PC proceed as follows:
 In order for the site to be generated properly, the files structure must look as follows: 
 
    ![Files structure](../assets/images/Files_structure.svg)
-   *Fig.1-2: Basic configuration of the files structure in the repository to publish the web sites using just-the-docs template*
+   *Fig.1-2: Basic configuration of the files structure in the repository to publish the website using just-the-docs template*
 
 ### Configuration file
 
 * The _config.yml file is a configuration file for the Jekyll generator. The _config.yml file should look like this:  
 **Note:** Explanations for each command are given in parentheses.
 
-   ![GitHub pages](../assets/images/GitHub_pages_13.png)
+   ![GitHub Pages](../assets/images/GitHub_pages_13.png)
 
 ### Markdown files - the main rules
 
@@ -152,19 +152,19 @@ In order for the site to be generated properly, the files structure must look as
 
 * index.md file in the root level
 
-   ![GitHub pages](../assets/images/GitHub_pages_14.png)
+   ![GitHub Pages](../assets/images/GitHub_pages_14.png)
 
 * Markdown files in docs folder
 
-   ![GitHub pages](../assets/images/GitHub_pages_15.png)
+   ![GitHub Pages](../assets/images/GitHub_pages_15.png)
 
 * index.md file in folder of the chapter 
 
-   ![GitHub pages](../assets/images/GitHub_pages_16.png)
+   ![GitHub Pages](../assets/images/GitHub_pages_16.png)
 
 * Markdown files in the folder of chapter (parent folder)
 
-   ![GitHub pages](../assets/images/GitHub_pages_17.png)
+   ![GitHub Pages](../assets/images/GitHub_pages_17.png)
 
 
 ### Pictures
@@ -175,7 +175,7 @@ In order for the site to be generated properly, the files structure must look as
 ## Publication
 
 After adding the files to the repository according to the just-the-docs template, you can publish your website.  
-The procedure for publishing pages according to the just-the-docs template is the same as for publishing pages without using the just-the-docs template and is described above in chapter *Publication the web sites from the GitHub Pages repository*.
+The procedure for publishing the website according to the just-the-docs template is the same as for publishing the website without using the just-the-docs template and is described above in chapter *Publication the website from the GitHub Pages repository*.
 
 
 # Helpful links

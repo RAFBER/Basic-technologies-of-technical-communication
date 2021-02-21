@@ -18,7 +18,7 @@ nav_order: 3
 
 # Introduction
 ## What is Markdown?  
-Markdown is a simple text format. This is the so-called “quick documentation” standard in IT branch and related fields. It is mainly used to generate HTML files. With Markdown is possible to create the web pages without any additional tools. 
+Markdown is a simple text format. This is the so-called “quick documentation” standard in IT branch and related fields. It is mainly used to generate HTML files. With Markdown is possible to create the website without any additional tools. 
 
 ## Advantages
 * Very simple format, readable also without processing
