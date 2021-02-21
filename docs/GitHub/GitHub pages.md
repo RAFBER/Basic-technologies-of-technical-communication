@@ -15,15 +15,15 @@ nav_order: 2
 1. TOC
 {:toc}
 
-# Create a public *GitHub Pages* repository
+# Creating the public *GitHub Pages* repository
 
 *GitHub Pages* is designed to host your personal, organization, or project pages from a GitHub repository.
 
 There are two ways to create the public repository *GitHub pages*:  
-* Create a new repository as a "Public" from the beginning and
+* Create a new repository as "Public" from the beginning and
 * Change the "Private" repository to "Public" repository
 
-Creating a new repository procedure are described above in the chapter ***Creating a new repository***. If you created the new repository as "Private" you need to change it as "Public" and enable the *GitHub pages* functionality to this repository.
+Creating a new repository procedure are described in *GitHub - tha basics* in the chapter *Creating a new repository*. If you created the new repository as "Private" you need to change it as "Public" and enable the *GitHub pages* functionality to this repository.
 
 To do this proceed as follows:
 
@@ -175,7 +175,7 @@ In order for the site to be generated properly, the files structure must look as
 ## Publication
 
 After adding the files to the repository according to the just-the-docs template, you can publish your website.  
-The procedure for publishing pages according to the just-the-docs template is the same as for publishing pages without using the just-the-docs template and is described above in chapter ***Publication the web sites from the GitHub Pages repository***
+The procedure for publishing pages according to the just-the-docs template is the same as for publishing pages without using the just-the-docs template and is described above in chapter *Publication the web sites from the GitHub Pages repository*.
 
 
 # Helpful links
