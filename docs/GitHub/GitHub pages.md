@@ -63,7 +63,7 @@ If you have the "Public" repository with the content then you need to enable the
 
 **Note:** This feature does not work if you have an empty repository. You have to add the content to the repository first. 
 
-* Your site is ready to publish now. The following message should appear that your site is ready to be published
+* Your website is ready to publish now. The following message should appear that your site is ready to be published
 
    ![GitHub Pages](../assets/images/GitHub_pages_7.png)
 
@@ -75,7 +75,7 @@ If you have the "Public" repository with the content then you need to enable the
 
    ![GitHub Pages](../assets/images/GitHub_pages_9.png)
 
-* Your site is published now!
+* Your website is published now!
 
    ![GitHub pages](../assets/images/GitHub_pages_10.png)
 
