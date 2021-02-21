@@ -33,11 +33,9 @@ Markdown is a simple text format. This is the so-called “quick documentation�
 * Markdown is a simple to simple things but more difficult to more complicated (e.g. tables, formulas)
 * Markdown is a text format – during the transfer between different tools/technologies needs to be aware of the line break and character encoding
 
-# Functionality
+# Main function of the text format 
 
-## Main function of the text format 
-
-### Tittle
+## Tittle
 
 <!-- Example for title -->
 Text displayed after the rendering  
@@ -54,7 +52,7 @@ Markdown entry text:
 
 **Note:** The "Tittle" should be one in current document otherwise the document structure will be wrong. 
 
-### Paragraph
+## Paragraph
 
 <!--Example of paragraph of text-->
     This is a paragraph of text.
@@ -69,7 +67,7 @@ Markdown entry text:
     Paragraph of text that spans over he line. See how this displays when I write and write and write. What happens when I press enter? Nothing!  
     If I want a new line, I put two spaces and them Enter. This is still the same paragraph.
 
-### Bold, Italic, Quote
+## Bold, Italic, Quote
 
 <!--Example for bold text-->
 * See how to insert **bold** text!
@@ -99,9 +97,9 @@ Markdown entry text:
 
       And he was right.
 
-## Creating a document structure 
+# Creating a document structure 
 
-### Headers
+## Headers
 
 <!--Example for Headers-->
 # Header of chapter 1
@@ -160,7 +158,7 @@ More chapter text.
     ### 2.2.1 Chapter
     More chapter text.- [Sample document](#sample-document)
 
-### Table of contents
+## Table of contents
 
 To create the *Table of contents* proceed as follows:  
 * Click the mouse cursor in the proper place of the document where you would like to implement the *Table of contents*
@@ -174,7 +172,7 @@ For the extension installation procedure please refer to the document *Visual St
 [Visual Studio Code – useful options](Visual_Studio_Code–useful_options.md)
 
 <!--Example for Bullet list-->
-### Bullet list
+## Bullet list
 * bullet
 * another bullet
 * more bullets
@@ -185,7 +183,7 @@ For the extension installation procedure please refer to the document *Visual St
      * more bullets
 
 <!--Example for Numbered list-->
-### Numbered list
+## Numbered list
 1. First point
 2. Second point
 3. Third point
@@ -197,21 +195,21 @@ For the extension installation procedure please refer to the document *Visual St
 
 
 <!--Example text with equation-->
-### Equation
+## Equation
 If x=2 then it's a relatively small x.
 
 <!--Example text with equation-->
     If x=2 then it's a relatively small x.
 
 <!--Example for in line code-->
-### In line code
+## In line code
 If you specify `x=2;` then your program will substitute 2 for x.
 
 <!--Example for in line code-->
     If you specify `x=2;` then your program will substitute 2 for x.
 
 <!--A block of code-->
-### Block of code
+## Block of code
 
 Here comes a code block:
 ```
@@ -223,7 +221,7 @@ z=x+y;
 ![Text to display if no image](../assets/images/Code_block.png)
 
 <!--Example for Table-->
-### Table
+## Table
 
 | header      | another header      |
 | ----------- | ------------------- |
@@ -239,6 +237,8 @@ z=x+y;
     | row content | another row content |
 
 Paragraph after table
+
+# References
 
 ## Images  
 
@@ -279,7 +279,7 @@ Example for linking to another file.
     2. second
     3. third
 
-## Helpful links
+# Helpful links
 
 [Markdown cheat-sheet](./PDF/markdown-cheatsheet.pdf)
 
